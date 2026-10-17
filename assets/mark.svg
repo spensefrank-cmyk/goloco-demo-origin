@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" role="img" aria-label="GoLoco porch light">
+  <rect width="72" height="72" rx="16" fill="#2f6b4f"/>
+  <path d="M36 14v8" stroke="#f6f1e6" stroke-width="3" stroke-linecap="round"/>
+  <rect x="26" y="22" width="20" height="24" rx="4" fill="#f6f1e6"/>
+  <path d="M30 46h12l4 10H26z" fill="#c45c3e"/>
+  <circle cx="36" cy="33" r="4" fill="#c45c3e"/>
+</svg>
